@@ -23,7 +23,7 @@ MarkupSafe==1.0
 matplotlib==2.2.2
 networkx==2.1
 numpy==1.14.3
-opencv-python==3.4.0.12
+opencv-python==3.4.7.28
 Pillow==5.1.0
 post==1.0.1
 public==1.0.1
